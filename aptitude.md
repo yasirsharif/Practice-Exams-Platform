@@ -1,17 +1,3 @@
-# Year 8 Aptitude Test Questions
-
-## Table of Contents
-
-1. [Odd One Out](#odd-one-out)
-2. [Number Sequences](#number-sequences)
-3. [Logical Reasoning](#logical-reasoning)
-4. [Mathematical Problems](#mathematical-problems)
-5. [Verbal Reasoning](#verbal-reasoning)
-6. [Pattern Recognition](#pattern-recognition)
-7. [General Knowledge](#general-knowledge)
-
-## Odd One Out
-
 ### Which word is the odd one out?
 
 - [ ] Cat
