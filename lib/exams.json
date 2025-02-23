@@ -1,18 +1,17 @@
 [
-    {
-      "name": "AWS Certified ANS-C01",
-      "subtitle": "AWS Certified Advanced Networking Specialty",
-      "url": "https://raw.githubusercontent.com/Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Advanced-Networking-Specialty-ANS-C01-Practice-Test-Exam/main/README.md"
-    },
-    {
-      "name": "Test Exam",
-      "subtitle": "English test",
-      "url": "https://raw.githubusercontent.com/yasirsharif/Practice-Exams-Platform/refs/heads/dev/english.md"
-    },
-    {
-      "name": "PSPO I",
-      "subtitle": "Scrum Product Owner I for PSPO I",
-      "url": "https://raw.githubusercontent.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers/main/README.md"
-    }
-  ]
-  
+  {
+    "name": "AWS Certified ANS-C01",
+    "subtitle": "AWS Certified Advanced Networking Specialty",
+    "url": "https://raw.githubusercontent.com/Ditectrev/Amazon-Web-Services-Certified-AWS-Certified-Advanced-Networking-Specialty-ANS-C01-Practice-Test-Exam/main/README.md"
+  },
+  {
+    "name": "Aptitude Exam",
+    "subtitle": "Aptitude Test",
+    "url": "https://raw.githubusercontent.com/yasirsharif/Practice-Exams-Platform/refs/heads/dev/aptitude.md"
+  },
+  {
+    "name": "PSPO I",
+    "subtitle": "Scrum Product Owner I for PSPO I",
+    "url": "https://raw.githubusercontent.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers/main/README.md"
+  }
+]
