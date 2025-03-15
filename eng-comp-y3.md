@@ -1,7 +1,3 @@
-## Passage 1:
-
-"Lily loved visiting her grandma's garden. It was full of colorful flowers and buzzing bees. One sunny afternoon, Lily saw a tiny caterpillar munching on a leaf. She watched it wiggle and eat. 'I wonder where you're going,' Lily whispered."
-
 ### Question 1: What did Lily see in the garden?
 
 ! "Lily loved visiting her grandma's garden. It was full of colorful flowers and buzzing bees. One sunny afternoon, Lily saw a tiny caterpillar munching on a leaf. She watched it wiggle and eat. 'I wonder where you're going,' Lily whispered."
@@ -12,9 +8,7 @@
 - [ ] A tall tree
       ⬆ Back to Top
 
-### Question 2: What was the caterpillar doing?
-
-"Lily loved visiting her grandma's garden. It was full of colorful flowers and buzzing bees. One sunny afternoon, Lily saw a tiny caterpillar munching on a leaf. She watched it wiggle and eat. 'I wonder where you're going,' Lily whispered."
+### "Lily loved visiting her grandma's garden. It was full of colorful flowers and buzzing bees. One sunny afternoon, Lily saw a tiny caterpillar munching on a leaf. She watched it wiggle and eat. 'I wonder where you're going,' Lily whispered." Question 2: What was the caterpillar doing?
 
 - [ ] Sleeping
 - [x] Eating
@@ -22,11 +16,7 @@
 - [ ] Drinking
       ⬆ Back to Top
 
-## Passage 2:
-
-"Tom had a shiny red ball. He bounced it high in the air. His friend, Sam, had a blue kite. They went to the park. Tom bounced his ball, and Sam flew his kite. They had lots of fun."
-
-### Question 3: What color was Tom's ball?
+### "Tom had a shiny red ball. He bounced it high in the air. His friend, Sam, had a blue kite. They went to the park. Tom bounced his ball, and Sam flew his kite. They had lots of fun." Question 3: What color was Tom's ball?
 
 - [ ] Blue
 - [x] Red
@@ -34,7 +24,7 @@
 - [ ] Yellow
       ⬆ Back to Top
 
-### Question 4: What did Sam fly in the park?
+### "Tom had a shiny red ball. He bounced it high in the air. His friend, Sam, had a blue kite. They went to the park. Tom bounced his ball, and Sam flew his kite. They had lots of fun." Question 4: What did Sam fly in the park?
 
 - [ ] A ball
 - [ ] A plane
@@ -42,11 +32,7 @@
 - [ ] A car
       ⬆ Back to Top
 
-## Passage 3:
-
-"The little bear lived in a cozy cave. One day, he went for a walk in the woods. He saw a rabbit hopping and a squirrel climbing a tree. He smiled and waved at them."
-
-### Question 5: Where did the little bear live?
+### "The little bear lived in a cozy cave. One day, he went for a walk in the woods. He saw a rabbit hopping and a squirrel climbing a tree. He smiled and waved at them." Question 5: Where did the little bear live?
 
 - [ ] In a house
 - [x] In a cave
@@ -54,7 +40,7 @@
 - [ ] In a river
       ⬆ Back to Top
 
-### Question 6: What animals did the bear see?
+### "The little bear lived in a cozy cave. One day, he went for a walk in the woods. He saw a rabbit hopping and a squirrel climbing a tree. He smiled and waved at them." Question 6: What animals did the bear see?
 
 - [ ] Lions and tigers
 - [x] Rabbits and squirrels
@@ -62,11 +48,7 @@
 - [ ] Cows and sheep
       ⬆ Back to Top
 
-## Passage 4:
-
-"Sarah and her dad went to the beach. They built a tall sandcastle. The waves came and washed it away. Sarah laughed. 'Let's build another one!' she said."
-
-### Question 7: What did Sarah and her dad build?
+### "Sarah and her dad went to the beach. They built a tall sandcastle. The waves came and washed it away. Sarah laughed. 'Let's build another one!' she said." Question 7: What did Sarah and her dad build?
 
 - [ ] A boat
 - [ ] A house
@@ -74,7 +56,7 @@
 - [ ] A bridge
       ⬆ Back to Top
 
-### Question 8: What happened to the sandcastle?
+### "Sarah and her dad went to the beach. They built a tall sandcastle. The waves came and washed it away. Sarah laughed. 'Let's build another one!' she said." Question 8: What happened to the sandcastle?
 
 - [ ] It flew away
 - [x] It washed away
@@ -82,11 +64,7 @@
 - [ ] It grew bigger
       ⬆ Back to Top
 
-## Passage 5:
-
-"The baker made yummy cookies. He put them in a big jar. Children came to buy the cookies. They loved the sweet taste."
-
-### Question 9: What did the baker make?
+### "The baker made yummy cookies. He put them in a big jar. Children came to buy the cookies. They loved the sweet taste." Question 9: What did the baker make?
 
 - [ ] Bread
 - [ ] Cakes
@@ -94,7 +72,7 @@
 - [ ] Pies
       ⬆ Back to Top
 
-### Question 10: Where did the baker put the cookies?
+### "The baker made yummy cookies. He put them in a big jar. Children came to buy the cookies. They loved the sweet taste." Question 10: Where did the baker put the cookies?
 
 - [ ] In a box
 - [x] In a jar
@@ -102,11 +80,7 @@
 - [ ] On a plate
       ⬆ Back to Top
 
-## Passage 6:
-
-"The sun shone brightly. The birds sang a happy song. The flowers opened their petals. It was a beautiful day."
-
-### Question 11: What did the birds do?
+### "The sun shone brightly. The birds sang a happy song. The flowers opened their petals. It was a beautiful day." Question 11: What did the birds do?
 
 - [ ] Flew away
 - [x] Sang a song
@@ -114,7 +88,7 @@
 - [ ] Built nests
       ⬆ Back to Top
 
-### Question 12: What did the flowers do?
+### "The sun shone brightly. The birds sang a happy song. The flowers opened their petals. It was a beautiful day." Question 12: What did the flowers do?
 
 - [ ] Fell down
 - [ ] Turned blue
@@ -122,11 +96,7 @@
 - [ ] Grew taller
       ⬆ Back to Top
 
-## Passage 7:
-
-"The train chugged along the tracks. It went through tunnels and over bridges. People waved from the windows."
-
-### Question 13: Where did the train go?
+### "The train chugged along the tracks. It went through tunnels and over bridges. People waved from the windows." Question 13: Where did the train go?
 
 - [ ] On a road
 - [x] On tracks
@@ -134,7 +104,7 @@
 - [ ] In the sky
       ⬆ Back to Top
 
-### Question 14: What did the people do?
+### "The train chugged along the tracks. It went through tunnels and over bridges. People waved from the windows." Question 14: What did the people do?
 
 - [ ] Slept
 - [ ] Ate food
@@ -142,11 +112,7 @@
 - [ ] Read books
       ⬆ Back to Top
 
-## Passage 8:
-
-"The owl sat on a branch. He looked down at the field. He saw a mouse scurrying through the grass."
-
-### Question 15: Where did the owl sit?
+### "The owl sat on a branch. He looked down at the field. He saw a mouse scurrying through the grass." Question 15: Where did the owl sit?
 
 - [ ] On a rock
 - [x] On a branch
@@ -154,7 +120,7 @@
 - [ ] On a roof
       ⬆ Back to Top
 
-### Question 16: What did the owl see?
+### "The owl sat on a branch. He looked down at the field. He saw a mouse scurrying through the grass." Question 16: What did the owl see?
 
 - [ ] A cat
 - [ ] A dog
@@ -162,11 +128,7 @@
 - [ ] A bird
       ⬆ Back to Top
 
-## Passage 9:
-
-"The children played in the snow. They made snowballs and threw them. They built a snowman with a carrot nose."
-
-### Question 17: What did the children make?
+### "The children played in the snow. They made snowballs and threw them. They built a snowman with a carrot nose." Question 17: What did the children make?
 
 - [ ] Sandcastles
 - [ ] Mud pies
@@ -174,7 +136,7 @@
 - [ ] Leaf piles
       ⬆ Back to Top
 
-### Question 18: What did the snowman have for a nose?
+### "The children played in the snow. They made snowballs and threw them. They built a snowman with a carrot nose." Question 18: What did the snowman have for a nose?
 
 - [ ] A stick
 - [ ] A stone
@@ -182,11 +144,7 @@
 - [ ] A button
       ⬆ Back to Top
 
-## Passage 10:
-
-"The frog jumped into the pond. He swam under the lily pads. He caught a fly with his long tongue."
-
-### Question 19: Where did the frog jump?
+### "The frog jumped into the pond. He swam under the lily pads. He caught a fly with his long tongue." Question 19: Where did the frog jump?
 
 - [ ] Into a lake
 - [x] Into a pond
@@ -194,7 +152,7 @@
 - [ ] Into a puddle
       ⬆ Back to Top
 
-### Question 20: How did the frog catch a fly?
+### "The frog jumped into the pond. He swam under the lily pads. He caught a fly with his long tongue." Question 20: How did the frog catch a fly?
 
 - [ ] With his feet
 - [ ] With his hands
