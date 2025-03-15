@@ -26,7 +26,9 @@
 - [ ] Yellow
       ⬆ Back to Top
 
-### "Tom had a shiny red ball. He bounced it high in the air. His friend, Sam, had a blue kite. They went to the park. Tom bounced his ball, and Sam flew his kite. They had lots of fun." Question 4: What did Sam fly in the park?
+### "Tom had a shiny red ball. He bounced it high in the air. His friend, Sam, had a blue kite. They went to the park. Tom bounced his ball, and Sam flew his kite. They had lots of fun."
+
+Question 4: What did Sam fly in the park?
 
 - [ ] A ball
 - [ ] A plane
@@ -34,7 +36,9 @@
 - [ ] A car
       ⬆ Back to Top
 
-### "The little bear lived in a cozy cave. One day, he went for a walk in the woods. He saw a rabbit hopping and a squirrel climbing a tree. He smiled and waved at them." Question 5: Where did the little bear live?
+### "The little bear lived in a cozy cave. One day, he went for a walk in the woods. He saw a rabbit hopping and a squirrel climbing a tree. He smiled and waved at them."
+
+Question 5: Where did the little bear live?
 
 - [ ] In a house
 - [x] In a cave
