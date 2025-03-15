@@ -14,6 +14,8 @@
 
 ### Question 2: What was the caterpillar doing?
 
+"Lily loved visiting her grandma's garden. It was full of colorful flowers and buzzing bees. One sunny afternoon, Lily saw a tiny caterpillar munching on a leaf. She watched it wiggle and eat. 'I wonder where you're going,' Lily whispered."
+
 - [ ] Sleeping
 - [x] Eating
 - [ ] Flying
