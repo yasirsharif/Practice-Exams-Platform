@@ -70,7 +70,9 @@ Question 5: Where did the little bear live?
 - [ ] It grew bigger
       ⬆ Back to Top
 
-### "The baker made yummy cookies. He put them in a big jar. Children came to buy the cookies. They loved the sweet taste." Question 9: What did the baker make?
+### "The baker made yummy cookies. He put them in a big jar. Children came to buy the cookies. They loved the sweet taste."
+
+Question 9: What did the baker make?
 
 - [ ] Bread
 - [ ] Cakes
