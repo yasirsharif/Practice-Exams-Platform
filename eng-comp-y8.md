@@ -39,7 +39,7 @@
 
 ### **Passage 2:**
 
-"Climate change is causing significant alterations to our planet, one of the most visible being the rising sea levels. This phenomenon is primarily due to the thermal expansion of water and the melting of polar ice caps and glaciers. As global temperatures increase, ice sheets in Greenland and Antarctica are rapidly shrinking, adding vast amounts of water to the oceans. This rise threatens coastal communities worldwide, leading to increased flooding, erosion, and displacement. Understanding these processes is crucial for developing strategies to mitigate the impacts of climate change."
+"Climate change is causing significant alterations to our planet, one of the most visible being the rising sea levels. This phenomenon is primarily due to the thermal expansion of water and the melting of polar ice caps and glaciers. As global temperatures increase, ice sheets in Greenland and Antarctica are rapidly shrinking, adding vast amounts of water to the oceans. This rise threatens coastal communities worldwide, leading to increased flooding, erosion, and displacement. Understanding these processes is crucial for developing strategies to mitigate the impacts of climate change." \
 
 Question 4: What is the main purpose of this informational text?
 
