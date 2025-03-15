@@ -17,7 +17,7 @@
 
 ### Question 2: Which character made a decision based on their conscience?
 
-"Sarah stood at the crossroads, the worn map clutched in her trembling hands. To the left, the path led to the Whispering Woods, rumored to hold untold riches. To the right, a narrow trail wound its way to the village, where her family waited, hungry and afraid. She knew the risks of the woods – bandits, wild beasts, and the ever-present danger of getting lost. Yet, the promise of gold glittered in her mind. Her stomach growled, and she thought of her little brother's gaunt face. Could she risk everything for the chance to save them, or should she return empty-handed?"
+! "Sarah stood at the crossroads, the worn map clutched in her trembling hands. To the left, the path led to the Whispering Woods, rumored to hold untold riches. To the right, a narrow trail wound its way to the village, where her family waited, hungry and afraid. She knew the risks of the woods – bandits, wild beasts, and the ever-present danger of getting lost. Yet, the promise of gold glittered in her mind. Her stomach growled, and she thought of her little brother's gaunt face. Could she risk everything for the chance to save them, or should she return empty-handed?"
 
 - [ ] Character A
 - [x] Sarah
