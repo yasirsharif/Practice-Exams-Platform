@@ -16,7 +16,9 @@
 - [ ] Drinking
       ⬆ Back to Top
 
-### "Tom had a shiny red ball. He bounced it high in the air. His friend, Sam, had a blue kite. They went to the park. Tom bounced his ball, and Sam flew his kite. They had lots of fun." Question 3: What color was Tom's ball?
+### Tom had a shiny red ball. He bounced it high in the air. His friend, Sam, had a blue kite. They went to the park. Tom bounced his ball, and Sam flew his kite. They had lots of fun.
+
+! Question 3: What color was Tom's ball?
 
 - [ ] Blue
 - [x] Red
