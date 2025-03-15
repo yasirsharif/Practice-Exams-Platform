@@ -26,11 +26,11 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
+### Question 3: What is the primary cause of rising sea levels mentioned in the text?
+
 **Passage 2:**
 
 "Climate change is causing significant alterations to our planet, one of the most visible being the rising sea levels. This phenomenon is primarily due to the thermal expansion of water and the melting of polar ice caps and glaciers. As global temperatures increase, ice sheets in Greenland and Antarctica are rapidly shrinking, adding vast amounts of water to the oceans. This rise threatens coastal communities worldwide, leading to increased flooding, erosion, and displacement. Understanding these processes is crucial for developing strategies to mitigate the impacts of climate change."
-
-### Question 3: What is the primary cause of rising sea levels mentioned in the text?
 
 - [ ] Increased volcanic activity
 - [ ] Changes in ocean currents
@@ -39,7 +39,11 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Question 4: What is the main purpose of this informational text?
+### **Passage 2:**
+
+"Climate change is causing significant alterations to our planet, one of the most visible being the rising sea levels. This phenomenon is primarily due to the thermal expansion of water and the melting of polar ice caps and glaciers. As global temperatures increase, ice sheets in Greenland and Antarctica are rapidly shrinking, adding vast amounts of water to the oceans. This rise threatens coastal communities worldwide, leading to increased flooding, erosion, and displacement. Understanding these processes is crucial for developing strategies to mitigate the impacts of climate change."
+
+Question 4: What is the main purpose of this informational text?
 
 - [ ] To entertain
 - [x] To inform
@@ -48,11 +52,11 @@
 
 **[⬆ Back to Top](#table-of-contents)**
 
-**Passage 3:**
+### **Passage 3:**
 
 "The Industrial Revolution, which began in the late 18th century and continued through the 19th, transformed societies across the globe. The introduction of new technologies, such as the steam engine and power loom, led to mass production and the growth of factories. This period saw a massive shift from agrarian to industrial economies, resulting in urbanization, social upheaval, and the rise of new economic classes. The consequences of this revolution continue to shape our world today."
 
-### Question 5: When did the event described in the passage primarily take place?
+#### Question 5: When did the event described in the passage primarily take place?
 
 - [ ] 17th Century
 - [ ] 18th Century
